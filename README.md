@@ -52,3 +52,4 @@
 - belongs_to :user
 
 
+テスト
